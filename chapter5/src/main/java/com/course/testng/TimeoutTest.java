@@ -15,6 +15,6 @@ public class TimeoutTest {
     @Test(timeOut = 2000)
     public void test2() throws InterruptedException {
         Thread.sleep(3000);
-        System.out.println("失败11");
+        System.out.println("失败1111");
     }
 }
