@@ -8,7 +8,7 @@ public class TimeoutTest {
     @Test(timeOut = 3000)
     public void test1() throws InterruptedException {
         Thread.sleep(2000);
-        System.out.println("成功11111");
+        System.out.println("成功111112");
     }
 
 
